@@ -1,2 +1,2 @@
-# Movieslens-Capstone-
+# Movieslens Capstone
 HarvardX Capstone Project
